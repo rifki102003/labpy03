@@ -96,7 +96,9 @@ Dan ini adalah output dari program di atas:
 
     Process finished with exit code 0
 3.program 1 berikut adalah algoritma program dan output nya
-![gambar 1](screenshot/latian3.PNG)
+![gambar 5](screenshot/latianku.PNG)
+program di pycharm<p>
+![gambar 3](screenshot/latian3.PNG)
 Berikut untuk Algoritma nya:<P>
 program dalam bentuk script nya:<P>
     
